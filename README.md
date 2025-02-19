@@ -1,5 +1,5 @@
 # Level-3-Pygame
-All worldbuilding code
+All Project World Creation code
 
 ## How to Navigate:
 Go to >**Branches** (the dropdown that says "main" on the top left corner) and see all versions (Version 1 - Version 9.1),
@@ -11,4 +11,6 @@ Beyond Version 10 were lazily combined into Version - Final that contains enemy_
 Some of the code, I did not follow Mr. Liu's instructions, so if you want a more
 detailed explanation of what I did in some parts, see >**Issues**. I will also put
 out my own coding issues there that I could not solve.
+
+## How to Download Zip File
 
