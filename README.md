@@ -12,7 +12,7 @@ Some of the code, I did not follow Mr. Liu's instructions, so if you want a more
 detailed explanation of what I did in some parts, see >**Issues**. I will also put
 out my own coding issues there that I could not solve.
 
-## Downloading Code to VSCode
+## Downloading Code to VSCode:
 
 1.) If you want to download the whole zips for the version you want to try out, create a completely
 new folder in your desktop for all of my code only.
