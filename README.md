@@ -1,7 +1,7 @@
 # Level-3-Pygame
 All worldbuilding code
 
-**How to Navigate:**
+## How to Navigate:
 Go to >**Branches** and see all versions (Version 1 - Version 9.1),
 each version will reference to Mr. Liu's moodle instructions and my own steps.
 
