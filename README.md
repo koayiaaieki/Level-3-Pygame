@@ -2,7 +2,7 @@
 All worldbuilding code
 
 ## How to Navigate:
-Go to >**Branches** (the dropdown at the top left corner) and see all versions (Version 1 - Version 9.1),
+Go to >**Branches** (the dropdown that says "main" on the top left corner) and see all versions (Version 1 - Version 9.1),
 each version will reference to Mr. Liu's moodle instructions and my own steps.
 
 Beyond Version 10 were lazily combined into Version - Final that contains enemy_files code and audio, etc.
