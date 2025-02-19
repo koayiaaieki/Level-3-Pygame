@@ -1,10 +1,11 @@
-# Level-3-Pygame
-All Project World Creation code
+# Version 10 + and I don't know
 
-**How to Navigate:**
-Go to >Branches and see all versions (Version 1 - Version 9.1)
+**New Patches**
+- Audio (BG music + sfx)
+- Enemies
+- UI
 
-Beyond Version 10 were lazily combined into Version - Final that contains enemy_files code and audio, etc.
-(can't remember)
-
-To reference Mr. Liu's moodle criteria, see >Issues for the instructions followed for each version.
+**[Issues]**
+- Unable to create map transition from level_1() map to level_2() map
+  how to remedy:
+  Go to game.py and change self.level_1.update() to self.level_2.update() if you want to see
