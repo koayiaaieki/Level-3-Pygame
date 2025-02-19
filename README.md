@@ -23,4 +23,4 @@ in VScode and have two separate windows to compare.
 2.) Under the same folder you created, download the **assets** and **pics** folders. They must be
 outside the Version Folders.
 
-3.) Lastly, to download the Versions,
+3.) All Downloads is right under >**Releases** at the right side of the screen.
