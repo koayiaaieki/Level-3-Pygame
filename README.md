@@ -1,5 +1,5 @@
 # Version 2 - Tile Creator Instructions
-(Not written by me)
+  **(written by our favourite teacher)**
 
 Our tile.py is currently inefficeint.
 Every time we create a tile, the program will need to reload all the images for all the tile types.
