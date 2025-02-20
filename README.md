@@ -1,5 +1,5 @@
-# Version 1 - Tile Map Instructions
 **(written by our favourite teacher)**
+# Version 1 - Tile Map Instructions 
 
 For the initial setup of the project, we need 5 files.
 
