@@ -19,7 +19,7 @@ We will store all the configurations here.
 
 All images will be organized into the "assets" folder.
 
-                                                        **(written by our favourite teacher)**
+  **(written by our favourite teacher)**
 ### [Create]
 Version 1.1 - [Create] main.py
 
