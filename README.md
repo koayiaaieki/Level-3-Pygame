@@ -1,26 +1,32 @@
-# Level-3-Pygame
-All Project World Creation code
+# Version 1 - Tile Map Instructions
 
-## How to Navigate:
-Go to >**Branches** (the dropdown that says "main" on the top left corner) and see all versions (Version 1 - Version 9.1),
-each version will reference to Mr. Liu's moodle instructions and my own steps.
+For the initial setup of the project, we need 5 files.
 
-Beyond Version 10 were lazily combined into Version - Final that contains enemy_files code and audio, etc.
-(can't remember)
+main.py
+This is the entry point to our project.
 
-Some of the code, I did not follow Mr. Liu's instructions, so if you want a more
-detailed explanation of what I did in some parts, see >**Issues**. I will also put
-out my own coding issues there that I could not solve.
+game.py
+This is the main logic of our game and will handle the loop.
 
-## Downloading Code to VSCode:
+level_1.py
+This will handle all the logic in level 1 of our game.
 
-1.) If you want to download the whole zips for the version you want to try out, create a completely
-new folder in your desktop for all of my code only.
+tile.py
+This will handle the creation of the tiles.
 
-2.) This will make it slightly more convenient to separate my code from yours, so just open a new window
-in VScode and have two separate windows to compare.
+config.py
+We will store all the configurations here.
 
-2.) Under the same folder you created, download the **assets** and **pics** folders. They must be
-outside the Version Folders.
+All images will be organized into the "assets" folder.
 
-3.) All Downloads is right under >**Releases** at the right side of the screen.
+
+### [Create]
+Version 1.1 - [Create] main.py
+
+Version 1.2 - [Create] config.py
+
+Version 1.3 - [Create] tile.py
+
+Version 1.4 - [Create] level_1.py
+
+Version 1.5 - [Create] game.py
