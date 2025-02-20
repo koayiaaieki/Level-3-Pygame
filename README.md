@@ -1,26 +1,13 @@
-# Level-3-Pygame
-All Project World Creation code
+# Version 2 - Tile Creator Instructions
+(Not written by me)
 
-## How to Navigate:
-Go to >**Branches** (the dropdown that says "main" on the top left corner) and see all versions (Version 1 - Version 9.1),
-each version will reference to Mr. Liu's moodle instructions and my own steps.
+Our tile.py is currently inefficeint.
+Every time we create a tile, the program will need to reload all the images for all the tile types.
 
-Beyond Version 10 were lazily combined into Version - Final that contains enemy_files code and audio, etc.
-(can't remember)
+1. We will update our Tile class to require an image to be passed in.
+2. We will write a Tile_creator class to help us streamline the tile creating process.
 
-Some of the code, I did not follow Mr. Liu's instructions, so if you want a more
-detailed explanation of what I did in some parts, see >**Issues**. I will also put
-out my own coding issues there that I could not solve.
+# [Create]
+Version 2.1 - [Update] tile.py
 
-## Downloading Code to VSCode:
-
-1.) If you want to download the whole zips for the version you want to try out, create a completely
-new folder in your desktop for all of my code only.
-
-2.) This will make it slightly more convenient to separate my code from yours, so just open a new window
-in VScode and have two separate windows to compare.
-
-2.) Under the same folder you created, download the **assets** and **pics** folders. They must be
-outside the Version Folders.
-
-3.) All Downloads is right under >**Releases** at the right side of the screen.
+Version 2.2 - [Create] tile_creator.py
