@@ -1,26 +1,14 @@
-# Level-3-Pygame
-All Project World Creation code
+# Version 4.1 - Instructions
+  **(written by our favourite teacher)**
+We often require our program to do similar things in different parts of our code.
+For example, we will need to animate our character, but will also be animating the enemies in a similar way.
+Instead of writing functions that essentially do the same thing within each class, we can create a separate file that stores all these functions, and import them when they are needed.
 
-## How to Navigate:
-Go to >**Branches** (the dropdown that says "main" on the top left corner) and see all versions (Version 1 - Version 9.1),
-each version will reference to Mr. Liu's moodle instructions and my own steps.
+1. Create an image_handler.py that will deal with all the image_handling like importing folders
+2. The Character class represents a game character with movement functionality. The code utilizes 'config' and 'image_handle' for configuration settings and image handling, respectively.
 
-Beyond Version 10 were lazily combined into Version - Final that contains enemy_files code and audio, etc.
-(can't remember)
+https://replit.com/@JasonLiu6166/lvl-3-Character-Sprite-Example-Code#image_handler.py
 
-Some of the code, I did not follow Mr. Liu's instructions, so if you want a more
-detailed explanation of what I did in some parts, see >**Issues**. I will also put
-out my own coding issues there that I could not solve.
+### [Create]
 
-## Downloading Code to VSCode:
-
-1.) If you want to download the whole zips for the version you want to try out, create a completely
-new folder in your desktop for all of my code only.
-
-2.) This will make it slightly more convenient to separate my code from yours, so just open a new window
-in VScode and have two separate windows to compare.
-
-2.) Under the same folder you created, download the **assets** and **pics** folders. They must be
-outside the Version Folders.
-
-3.) All Downloads is right under >**Releases** at the right side of the screen.
+# Version 
