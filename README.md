@@ -1,4 +1,4 @@
-# Version 2 - Tile Creator Instructions
+# Version 3 - Tile Obstacles Instructions
   **(written by our favourite teacher)**
 
   1. Clean up code - Kill the dummy =(
