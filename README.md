@@ -13,6 +13,24 @@ https://replit.com/@JasonLiu6166/lvl-3-Character-Sprite-Example-Code#image_handl
 
 Version 4.1.1 [Create] - image_handler.py
 
-Version 4.1.2 [Update] -  
+Version 4.1.2 [Update] -  config.py
 
-# Version 
+Version 4.1.3 [Create] - /pics/ folder (find 5-8 images)
+
+# Version 4.2 - Character Sprite
+We will now implement our character with some basic controls.
+
+1. Create an character.py and write the Character class.
+2. character.py should import and utilize import_folder from image_handler
+3. character.py should have an input() method that checks user input
+4. character.py should have a move() method that moves the character according to user input
+
+5. Add to config and have a third layer for level 1 called LEVEL_1_SPRITES. We will be using this to dictate where the character (and enemies) spawn
+6. Add a spawn_sprites method in level_1.py that will iterate through LEVEL_1_SPRITES and spawn the character
+Hint: This is very similar to how we spawned the tiles and obstacles
+
+### [Create]
+Version 4.2.1 - [Create] character.py
+
+Version 4.2.2 - [Update] level_1.py
+
