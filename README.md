@@ -1,5 +1,6 @@
 # Version 4.1 - Instructions
   **(written by our favourite teacher)**
+  
 We often require our program to do similar things in different parts of our code.
 For example, we will need to animate our character, but will also be animating the enemies in a similar way.
 Instead of writing functions that essentially do the same thing within each class, we can create a separate file that stores all these functions, and import them when they are needed.
