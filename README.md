@@ -8,3 +8,6 @@ Version 5.1 [Update] - image_handler.py
 
 Version 5.2 [Update] -  character.py
 
+### [Example codes]
+https://replit.com/@JasonLiu6166/lvl-3-sort-Example-Code#main.py
+https://replit.com/@JasonLiu6166/lvl-3-Character-Animation-Example-Code#character.py
