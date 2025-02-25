@@ -10,4 +10,4 @@ Version 5.2 [Update] -  character.py
 
 ### [Example codes]
 - sort() example code: https://replit.com/@JasonLiu6166/lvl-3-sort-Example-Code#main.py
- Character Animation Example Code: https://replit.com/@JasonLiu6166/lvl-3-Character-Animation-Example-Code#character.py
+- Character Animation Example Code: https://replit.com/@JasonLiu6166/lvl-3-Character-Animation-Example-Code#character.py
