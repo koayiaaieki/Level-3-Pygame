@@ -1,5 +1,6 @@
 # Version 5 - Instructions
   **(written by our favourite teacher)**
+  
 update image_handle to load a folder in sorted order and use it to create an animation for your character
 
 ### [Create]
